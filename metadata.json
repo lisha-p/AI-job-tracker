@@ -1,0 +1,6 @@
+{
+  "name": "JobTrack – Job Application Tracker",
+  "description": "Track and manage job applications, interview stages, statuses, and key metrics in one organized dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
